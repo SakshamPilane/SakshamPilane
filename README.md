@@ -7,9 +7,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/saksham-pilane-904840383/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@SakshamPilane" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
+  </a>
+  <a href="https://x.com/SakshamPilane" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
+  </a>
 </div>
 
 ###
@@ -26,8 +32,9 @@
 
 <p align="left">
 I'm from Pune, India.<br><br>
-- 📚 I'm currently learning Java, SQL & Data Structures<br>
-- 🔭 I’m building my GitHub with daily learning and projects
+- 📚 Currently learning Java, SQL & Data Structures<br>
+- 🔭 Building my GitHub with projects & daily practice<br>
+- 🌱 Documenting my coding journey on LinkedIn, Twitter & YouTube
 </p>
 
 ###
