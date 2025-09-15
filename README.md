@@ -62,9 +62,7 @@ I'm from Pune, India.<br><br>
   Just starting out! Tracking progress daily and learning step by step 🚀
 </p>
 
-<div align="center">
-  <!-- Stylish GitHub stats with modern themes -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamPilane&theme=tokyonight&hide_border=true" height="220" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamPilane&theme=tokyonight&hide_border=true" height="220" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
