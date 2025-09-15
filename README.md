@@ -1,3 +1,5 @@
+add a better gif for introduction and a better streak thing too here in my intro readme as both are not loading i want stylish ones
+
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
@@ -15,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
   </a>
   <a href="https://x.com/SakshamPilane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X (Twitter)" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
   </a>
 </div>
 
@@ -35,7 +37,7 @@
 I'm from Pune, India.<br><br>
 - 📚 Currently learning Java, SQL & Data Structures<br>
 - 🔭 Building my GitHub with projects & daily practice<br>
-- 🌱 Documenting my coding journey on LinkedIn, X & YouTube
+- 🌱 Documenting my coding journey on LinkedIn, Twitter & YouTube
 </p>
 
 ###
@@ -62,9 +64,6 @@ I'm from Pune, India.<br><br>
   Just starting out! Tracking progress daily and learning step by step 🚀
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamPilane&theme=tokyonight&hide_border=true" height="220" alt="GitHub Streak Stats" />
-</div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamPilane&show_icons=true&theme=tokyonight&hide_border=true" height="220" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=SakshamPilane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Stats (Starting Out)" />
 </div>
