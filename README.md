@@ -1,7 +1,8 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img height="150" src="https://i.ibb.co/n6BrGSJ/coder-at-pc.gif" />
+  <!-- Stylish animated coder GIF -->
+  <img height="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder at work" />
 </div>
 
 ###
@@ -14,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
   </a>
   <a href="https://x.com/SakshamPilane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X (Twitter)" />
   </a>
 </div>
 
@@ -34,7 +35,7 @@
 I'm from Pune, India.<br><br>
 - 📚 Currently learning Java, SQL & Data Structures<br>
 - 🔭 Building my GitHub with projects & daily practice<br>
-- 🌱 Documenting my coding journey on LinkedIn, Twitter & YouTube
+- 🌱 Documenting my coding journey on LinkedIn, X & YouTube
 </p>
 
 ###
@@ -62,5 +63,10 @@ I'm from Pune, India.<br><br>
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SakshamPilane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Stats (Starting Out)" />
+  <!-- Stylish GitHub stats with modern themes -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamPilane&theme=tokyonight&hide_border=true" height="220" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshamPilane&show_icons=true&theme=tokyonight&hide_border=true" height="220" alt="GitHub Stats" />
 </div>
