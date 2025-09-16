@@ -65,5 +65,5 @@ I'm from Pune, India.<br><br>
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SakshamPilane&theme=dark&hide_border=false" height="220" alt="Streak Stats (Starting Out)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshamPilane&show_icons=true&theme=radical" />
 </div>
