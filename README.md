@@ -1,7 +1,8 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <!-- Stylish animated coder GIF -->
+  <img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 </div>
 
 ###
