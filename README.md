@@ -1,48 +1,46 @@
-add a better gif for introduction and a better streak thing too here in my intro readme as both are not loading i want stylish ones
+<h1 align="center">Hi 👋, I’m Saksham Pilane</h1>
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="center">Final-year CSE student @ VU, Pune | Learning Java & Backend Development | Aspiring Backend Developer</h3>
+
+---
 
 <div align="center">
   <!-- Stylish animated coder GIF -->
-  <img height="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder at work" />
+  <img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 </div>
 
-###
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/saksham-pilane-904840383/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@SakshamPilane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="YouTube" />
   </a>
   <a href="https://x.com/SakshamPilane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SakshamPilane.SakshamPilane" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SakshamPilane.SakshamPilane" alt="Visitor Count" />
 </div>
 
-###
+---
 
-<h1 align="center">Hi 👋, I’m Saksham Pilane</h1>
+### 👨‍💻 About Me
 
-<h3 align="left">Final-year CSE student @ VU, Pune | Learning Java & Backend Development | Aspiring Backend Developer</h3>
+- 📚 Currently learning **Java, SQL & Data Structures**  
+- 🔭 Building my GitHub with **projects & daily practice**  
+- 🌱 Sharing my coding journey on **LinkedIn, Twitter & YouTube**  
+- 📍 Based in **Pune, India**  
 
-<p align="left">
-I'm from Pune, India.<br><br>
-- 📚 Currently learning Java, SQL & Data Structures<br>
-- 🔭 Building my GitHub with projects & daily practice<br>
-- 🌱 Documenting my coding journey on LinkedIn, Twitter & YouTube
-</p>
+---
 
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
+### 🛠 Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java" />
@@ -56,14 +54,14 @@ I'm from Pune, India.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥 My Stats :</h3>
+### 🔥 My Stats
 
 <p align="center">
-  Just starting out! Tracking progress daily and learning step by step 🚀
+  Just starting out! 🚀 Tracking progress daily and learning step by step.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SakshamPilane&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SakshamPilane&theme=radical&hide_border=false" height="220" alt="GitHub Streak Stats" />
 </div>
