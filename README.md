@@ -65,5 +65,5 @@ I'm from Pune, India.<br><br>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamPilane&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SakshamPilane&theme=radical&hide_border=false" />
 </div>
