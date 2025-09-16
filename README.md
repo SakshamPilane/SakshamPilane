@@ -63,5 +63,5 @@ I'm from Pune, India.<br><br>
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SakshamPilane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Stats (Starting Out)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SakshamPilane&theme=dark&hide_border=false" height="220" alt="GitHub Streak Stats" />
 </div>
