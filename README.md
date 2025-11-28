@@ -42,6 +42,7 @@ Java • C • C++ • MySQL • Postman
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 
 ---
 
