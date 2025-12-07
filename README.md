@@ -24,7 +24,7 @@
 ---
 
 # 🛠 Languages and Tools  
-Java • C • C++ • MySQL • Postman  
+Java • C • C++ • MySQL • Postman  • Python
 
 ---
 
