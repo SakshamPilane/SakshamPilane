@@ -14,12 +14,22 @@
 ---
 
 # 💫 About Me  
-- 🎯 Focused on **Backend Development using Java & Spring Boot**  
-- 🐍 Also build backend services in **Python (FastAPI / Flask)**  
-- 📚 Learning **SQL, APIs, and Data Structures**  
-- 🔭 Growing my GitHub with real backend projects  
-- 🌱 Documenting my tech journey on **LinkedIn, X, and YouTube**  
-- 🚀 Aspiring **Software Engineer / Backend Developer**
+👋 Hi, I’m Saksham — a backend developer who enjoys turning ideas into reliable and scalable systems.  
+I’m currently in my final year of CSE at VU Pune, building real backend projects and sharpening my engineering mindset every single day.
+
+💻 I work mainly with **Java + Spring Boot**, and also develop backend services with **Python (FastAPI / Flask)**.  
+I love designing clean APIs, structuring databases, and writing code that is simple, efficient, and easy to maintain.
+
+🔍 I’m currently deepening my skills in:  
+- System Design & scalability  
+- Clean architecture for backend projects  
+- SQL, data modeling, and API performance  
+
+🚀 My goal is to become a strong **Backend Engineer** capable of building systems that are both technically solid and genuinely useful.
+
+🌱 I also share my learning journey online — not just to document it, but to help others grow with me.
+
+If you’re into backend engineering, tech conversations, or collaboration, I’d love to connect!
 
 ---
 
