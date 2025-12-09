@@ -4,12 +4,9 @@
 ---
 
 <div align="center">
-  <img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+  <img height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNsZzE3bTNjYWx1c2ZqZ3JrMGFsM2VsdWJkenh2czFsOG13bDhmcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding GIF" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SakshamPilane.SakshamPilane" />
-</div>
 
 ---
 
