@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SakshamPilane.SakshamPilane" />
+  <img src="https://profile-counter.glitch.me/SakshamPilane/count.svg" />
 </div>
 
 ---
@@ -64,46 +64,39 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity (Stable Replacement)
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SakshamPilane&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=SakshamPilane&theme=dark&hide_border=false" />
-</div>
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SakshamPilane&theme=dark&layout=compact&hide_border=false" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" height="200" />
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements (Custom Stickers Instead of Trophies)
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakshamPilane&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=-C&v=2" />
+  <img height="150" src="https://i.imgur.com/ExdKOOz.png" />
+  <img height="150" src="https://i.imgur.com/3ZQ3ZQF.png" />
+  <img height="150" src="https://i.imgur.com/nGJgN5x.png" />
 </div>
 
 ---
 
-# ✍️ Random Dev Quote
+# ✍️ Random Dev Quote (New Stable Source)
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.+Build.+Break.+Fix.+Repeat.;Backend+Development+is+my+superpower.;Learning+every+day+to+be+1%25+better." />
 </div>
 
 ---
 
-# 🔝 Top Contributed Repo
+# 🔝 Featured Contribution (Manual Stable Section)
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SakshamPilane&theme=dark&limit=5" />
+  <img height="200" src="https://i.imgur.com/jfbv2Kt.png" alt="Custom Contribution Icon" />
 </div>
 
 ---
 
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=SakshamPilane&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly built using GPRM -->
+  <img src="https://profile-counter.glitch.me/SakshamPilane/count.svg" />
 </div>
