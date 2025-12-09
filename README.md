@@ -82,15 +82,15 @@ If you’re into backend engineering, tech conversations, or collaboration, I’
 # 🏅 Developer Achievements
 
 <div align="center">
-  <img height="140" src="https://i.imgur.com/8bF6FfU.png" alt="Clean Code Trophy"/>
-  <img height="140" src="https://i.imgur.com/GEtxp2q.png" alt="Bug Slayer"/>
-  <img height="140" src="https://i.imgur.com/ePlQ7p3.png" alt="API Architect"/>
+  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/clean-code.svg" alt="Clean Code Trophy"/>
+  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/bug-hunter.svg" alt="Bug Hunter"/>
+  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/api-master.svg" alt="API Master"/>
 </div>
 
 <div align="center">
-  <img height="140" src="https://i.imgur.com/TyD1gEz.png" alt="Database Master"/>
-  <img height="140" src="https://i.imgur.com/F2Z0g7M.png" alt="Backend Builder"/>
-  <img height="140" src="https://i.imgur.com/Z2BGNeW.png" alt="Open Source Knight"/>
+  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/database-guru.svg" alt="Database Guru"/>
+  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/backend-engineer.svg" alt="Backend Engineer"/>
+  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/open-source.svg" alt="Open Source Champion"/>
 </div>
 
 ---
