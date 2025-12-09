@@ -4,8 +4,9 @@
 ---
 
 <div align="center">
-  <img height="220" src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" alt="Fast Coding GIF" />
+  <img height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNlajoxbHh5MmU0eDIydXduOWZwc2pzcjFpYW0wMTBkY2dxcGdsM3E2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" />
 </div>
+
 
 ---
 
