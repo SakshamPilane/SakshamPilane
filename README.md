@@ -33,36 +33,23 @@ If you’re into backend engineering, tech conversations, or collaboration, I’
 
 ---
 
-# 🛠 Languages & Tools  
-**Backend:** Java, Spring Boot, Python (Backend)  
-**Database:** MySQL, SQL  
-**Tools:** Git, GitHub, Postman  
-**Other:** C, C++
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman,linux" height="45"/>
+</p>
 
 ---
 
-# 🚀 Tech Stack  
-
-### 💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### ⚙️ Backend & Frameworks  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🛢 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧪 API & Testing Tools  
-![Postman](https://img.shields.io/badge/Postman-F16635?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🛠 Other Tools  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+### 🔧 Breakdown  
+**Backend Development:** Java (Spring Boot), Python (FastAPI / Flask)  
+**Databases:** MySQL, PostgreSQL  
+**Tools & Platforms:** Git, GitHub, Postman, Linux  
+**Foundations:** C, C++, SQL, API Design  
 
 ---
 
