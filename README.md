@@ -82,15 +82,21 @@ If you’re into backend engineering, tech conversations, or collaboration, I’
 # 🏅 Developer Achievements
 
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/clean-code.svg" alt="Clean Code Trophy"/>
-  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/bug-hunter.svg" alt="Bug Hunter"/>
-  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/api-master.svg" alt="API Master"/>
+
+  <img src="https://img.shields.io/badge/Clean%20Code%20Champion-%F0%9F%8F%86-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug%20Hunter-%F0%9F%90%9B-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Architect-%F0%9F%94%8D-green?style=for-the-badge" />
+  
 </div>
 
+<br>
+
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/database-guru.svg" alt="Database Guru"/>
-  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/backend-engineer.svg" alt="Backend Engineer"/>
-  <img height="150" src="https://raw.githubusercontent.com/Legend-Master-Studio/assets/main/trophies/open-source.svg" alt="Open Source Champion"/>
+
+  <img src="https://img.shields.io/badge/Database%20Master-%F0%9F%92%BE-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Engineer%20Award-%F0%9F%94%A7-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%F0%9F%8C%9F-yellow?style=for-the-badge" />
+
 </div>
 
 ---
