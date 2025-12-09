@@ -67,19 +67,19 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamPilane&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SakshamPilane&theme=dark&hide_border=false" height="200"/>
+  <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=SakshamPilane&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=SakshamPilane&theme=dark&hide_border=false" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamPilane&theme=dark&hide_border=false&layout=compact" height="200"/>
+  <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SakshamPilane&theme=dark&hide_border=false&layout=compact" />
 </div>
 
 ---
 
 # 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakshamPilane&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SakshamPilane&theme=radical&no-frame=true&no-bg=true&margin-w=4&v=1" />
 </div>
 
 ---
