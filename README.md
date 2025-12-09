@@ -53,7 +53,7 @@ If you’re into backend engineering, tech conversations, or collaboration, I’
 
 ---
 
-# 🌐Connect With Me  
+# 🌐 Connect With Me  
 
 <div align="center">
 
@@ -92,7 +92,7 @@ If you’re into backend engineering, tech conversations, or collaboration, I’
   <!-- GitHub Activity Overview -->
   <img src="https://img.shields.io/badge/Active%20Contributor-%F0%9F%94%A5-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend%20Focused-%F0%9F%94%8D-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-%F0%9F%8C%9F-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%F0%9F%8C%9F-orange?style=for-the-badge" />
 
 </div>
 
