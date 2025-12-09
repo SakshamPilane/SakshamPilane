@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNlajoxbHh5MmU0eDIydXduOWZwc2pzcjFpYW0wMTBkY2dxcGdsM3E2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" />
+  <img height="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Minimal Coding GIF" />
 </div>
 
 
