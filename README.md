@@ -4,9 +4,8 @@
 ---
 
 <div align="center">
-  <img height="220" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Funny Coding GIF" />
+  <img height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampleCat/13HgwGsXF0aiGY/giphy.gif" alt="Cat Coding GIF" />
 </div>
-
 
 ---
 
