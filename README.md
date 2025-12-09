@@ -7,12 +7,9 @@
   <img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 </div>
 
----
-
-<!-- 🐍 Snake Contribution Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SakshamPilane.SakshamPilane" />
+</div>
 
 ---
 
@@ -27,7 +24,7 @@
 ---
 
 # 🛠 Languages & Tools  
-**Backend:** Java, Spring Boot, Python  
+**Backend:** Java, Spring Boot, Python (Backend)  
 **Database:** MySQL, SQL  
 **Tools:** Git, GitHub, Postman  
 **Other:** C, C++
@@ -67,46 +64,43 @@
 
 ---
 
-# 🎨 Custom Stickers (Unique + Stable)
-
-<p align="center">
-  <img height="140" src="https://i.imgur.com/ExdKOOz.png" />
-  <img height="140" src="https://i.imgur.com/3ZQ3ZQF.png" />
-  <img height="140" src="https://i.imgur.com/nGJgN5x.png" />
-</p>
-
-<p align="center">
-  <img height="140" src="https://i.imgur.com/jfbv2Kt.png" />
-  <img height="140" src="https://i.imgur.com/2A3hwcW.png" />
-</p>
-
----
-
-# 📊 GitHub Stats (Replaced Broken Ones — Stable Versions)
+# 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamPilane&theme=react-dark&hide_border=true&area=true" height="250"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshamPilane&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SakshamPilane&theme=dark&hide_border=false" height="200"/>
 </div>
 
-> ⚠ If this graph ever breaks, I can replace it with a **local self-hosted SVG** so it NEVER breaks again.
-
----
-
-# ✍️ Random Dev Quote (Stable)
-
 <div align="center">
-  <img src="https://api.quotable.io/random?maxLength=50" alt="Quote" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamPilane&theme=dark&hide_border=false&layout=compact" height="200"/>
 </div>
 
 ---
 
-# 👁️ Profile Views (Stable)
-
+# 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SakshamPilane/count.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SakshamPilane&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 
 ---
+
+# ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
+---
+
+# 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SakshamPilane&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</div>
+
+---
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=SakshamPilane&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly built using GPRM -->
+</div>
