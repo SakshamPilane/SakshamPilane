@@ -61,43 +61,55 @@ If you’re into backend engineering, tech conversations, or collaboration, I’
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamPilane&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SakshamPilane&theme=dark&hide_border=false" height="200"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" height="200" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamPilane&theme=dark&hide_border=false&layout=compact" height="200"/>
-</div>
-
----
-
-# 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakshamPilane&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-Growing-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-orange?style=for-the-badge&logo=github" />
 </div>
 
 ---
 
-# ✍️ Random Dev Quote
+# 🏆 Developer Trophies
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img height="150" src="https://i.imgur.com/ExdKOOz.png" />
+  <img height="150" src="https://i.imgur.com/2A3hwcW.png" />
+  <img height="150" src="https://i.imgur.com/jfbv2Kt.png" />
+</div>
+
+<div align="center">
+  <img height="150" src="https://i.imgur.com/3ZQ3ZQF.png" />
+  <img height="150" src="https://i.imgur.com/nGJgN5x.png" />
+</div>
+
+> ⚡ *Custom trophies — no API, no breakage. Always loads.*
+
+---
+
+# ❓ Developer Question of the Day
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=What+is+the+biggest+bottleneck+in+backend+systems%3F;How+do+you+design+an+API+for+millions+of+requests%2Fs%3F;Why+is+database+indexing+so+powerful%3F;What+makes+clean+architecture+scalable%3F;How+do+you+avoid+technical+debt+as+a+developer%3F" />
 </div>
 
 ---
 
-# 🔝 Top Contributed Repo
+# 🔝 Highlighted Contributions
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SakshamPilane&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img height="200" src="https://i.imgur.com/ExdKOOz.png" />
 </div>
 
 ---
 
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=SakshamPilane&icon=0&color=0)](https://visitcount.itsvg.in)
+# 👁️ Profile Views
 
-<!-- Proudly built using GPRM -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SakshamPilane/count.svg" />
 </div>
