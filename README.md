@@ -1,71 +1,73 @@
-<h1 align="center">🚀 Saksham Pilane</h1>
-<h3 align="center">Backend Developer (Java + Python) | Final-year CSE @ VU Pune</h3>
+<h1 align="center">Hi 👋, I'm Saksham Pilane</h1>
+<h3 align="center">Java Backend Developer | Python Backend | Final-year CSE Student @ VU, Pune</h3>
 
+---
+
+<div align="center">
+  <img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+</div>
+
+---
+
+<!-- 🐍 Snake Contribution Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-🎯 Backend Developer (Java + Spring Boot)  
-🐍 Python Developer (FastAPI / Flask)  
-🛢 SQL • MySQL • API Development  
-🔍 Learning System Design + Clean Architecture  
-📈 Writing + documenting my journey on LinkedIn, X, YouTube  
+# 💫 About Me  
+- 🎯 Focused on **Backend Development using Java & Spring Boot**  
+- 🐍 Also build backend services in **Python (FastAPI / Flask)**  
+- 📚 Learning **SQL, APIs, and Data Structures**  
+- 🔭 Growing my GitHub with real backend projects  
+- 🌱 Documenting my tech journey on **LinkedIn, X, and YouTube**  
+- 🚀 Aspiring **Software Engineer / Backend Developer**
 
 ---
 
-# 🧩 Tech Stack (Custom Icons)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,flask,mysql,git,github,postman,linux&theme=dark" />
-</p>
-
----
-
-# 🏗️ Current Focus  
-### 🔥 Building production-ready backend projects  
-### 🧪 Writing clean code with tests  
-### 🚀 Preparing for backend engineer roles  
+# 🛠 Languages & Tools  
+**Backend:** Java, Spring Boot, Python  
+**Database:** MySQL, SQL  
+**Tools:** Git, GitHub, Postman  
+**Other:** C, C++
 
 ---
 
-# 🧰 Featured Projects
+# 🚀 Tech Stack  
 
-### 📌 **TaskSync – Workflow & Task Management System**
-**Tech:** Spring Boot • MySQL • JWT Auth • RBAC  
-A real backend system with authentication, user roles, tasks, workflow logic, and APIs.
+### 💻 Programming Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
+### ⚙️ Backend & Frameworks  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 📌 **SmartWater-AI – Water Management Automation**
-**Tech:** Python • ML/AI • Flask  
-Predicts supply-demand, automates alerts, analytics dashboard.
+### 🛢 Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### 🧪 API & Testing Tools  
+![Postman](https://img.shields.io/badge/Postman-F16635?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📌 **AlgoVault – Algorithms & DS Learning Repo**
-Clean implementations with explanations + Java/C++ code.
-
----
-
-# 🎨 Custom Developer Badges (Unique + Stable)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-Java%20%7C%20Spring%20Boot-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python%20Backend-FastAPI%20%7C%20Flask-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-MySQL-lightgrey?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-Backend%20Roles-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-System%20Design-informational?style=for-the-badge" />
-</p>
+### 🛠 Other Tools  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 🖼️ Custom Stickers Section (Unique, Permanent, Non-Breaking)
+# 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-pilane-904840383)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SakshamPilane)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SakshamPilane)  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshampilane.04@gmail.com)  
+
+---
+
+# 🎨 Custom Stickers (Unique + Stable)
 
 <p align="center">
   <img height="140" src="https://i.imgur.com/ExdKOOz.png" />
@@ -78,39 +80,33 @@ Clean implementations with explanations + Java/C++ code.
   <img height="140" src="https://i.imgur.com/2A3hwcW.png" />
 </p>
 
-✔ These images are from **Imgur CDN** → permanent, fast and reliable  
-✔ No 410, 404, Vercel errors  
-✔ Unique look that no one else uses  
+---
+
+# 📊 GitHub Stats (Replaced Broken Ones — Stable Versions)
+
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamPilane&theme=react-dark&hide_border=true&area=true" height="250"/>
+
+</div>
+
+> ⚠ If this graph ever breaks, I can replace it with a **local self-hosted SVG** so it NEVER breaks again.
 
 ---
 
-# 📊 GitHub Activity (Only Stable, No Broken Widgets)
+# ✍️ Random Dev Quote (Stable)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamPilane&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-> If this ever breaks, I will replace it with a local self-hosted version for you.
+<div align="center">
+  <img src="https://api.quotable.io/random?maxLength=50" alt="Quote" />
+</div>
 
 ---
 
-# 🔗 Let's Connect
+# 👁️ Profile Views (Stable)
 
-<p align="center">
-  <a href="https://linkedin.com/in/saksham-pilane-904840383">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/SakshamPilane">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:sakshampilane.04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@SakshamPilane">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SakshamPilane/count.svg" />
+</div>
 
 ---
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
