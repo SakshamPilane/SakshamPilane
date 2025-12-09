@@ -76,3 +76,37 @@ If you’re into backend engineering, tech conversations, or collaboration, I’
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=What+is+the+biggest+bottleneck+in+backend+systems%3F;How+do+you+design+an+API+for+millions+of+requests%2Fs%3F;Why+is+database+indexing+so+powerful%3F;What+makes+clean+architecture+scalable%3F;How+do+you+avoid+technical+debt+as+a+developer%3F" />
 </div>
+
+---
+
+# 🏅 Developer Achievements
+
+<div align="center">
+  <img height="140" src="https://i.imgur.com/8bF6FfU.png" alt="Clean Code Trophy"/>
+  <img height="140" src="https://i.imgur.com/GEtxp2q.png" alt="Bug Slayer"/>
+  <img height="140" src="https://i.imgur.com/ePlQ7p3.png" alt="API Architect"/>
+</div>
+
+<div align="center">
+  <img height="140" src="https://i.imgur.com/TyD1gEz.png" alt="Database Master"/>
+  <img height="140" src="https://i.imgur.com/F2Z0g7M.png" alt="Backend Builder"/>
+  <img height="140" src="https://i.imgur.com/Z2BGNeW.png" alt="Open Source Knight"/>
+</div>
+
+---
+
+# 🎖️ Skill Badges
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20Quality-A+-blueviolet?style=for-the-badge&logo=devdotto" />
+  <img src="https://img.shields.io/badge/Backend%20Specialist-Java%20%7C%20SpringBoot-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Designer-REST%20%2F%20FastAPI-9cf?style=for-the-badge" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solver-DSA%20%7C%20Logic-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20Pro-yellow?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Linux%20User-Terminal%20Driven-success?style=for-the-badge&logo=linux" />
+</div>
+
+---
