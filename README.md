@@ -1,126 +1,112 @@
-<h1 align="center">Hi 👋, I'm Saksham Pilane</h1>
-<h3 align="center">Java Backend Developer | Python Backend | Final-year CSE Student @ VU, Pune</h3>
-
----
-
-<div align="center">
-  <img height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampleCat/13HgwGsXF0aiGY/giphy.gif" alt="Cat Coding GIF" />
-</div>
-
----
-
-# 💫 About Me  
-👋 Hi, I’m Saksham — a backend developer who enjoys turning ideas into reliable and scalable systems.  
-I’m currently in my final year of CSE at VU Pune, building real backend projects and sharpening my engineering mindset every single day.
-
-💻 I work mainly with **Java + Spring Boot**, and also develop backend services with **Python (FastAPI / Flask)**.  
-I love designing clean APIs, structuring databases, and writing code that is simple, efficient, and easy to maintain.
-
-🔍 I’m currently deepening my skills in:  
-- System Design & scalability  
-- Clean architecture for backend projects  
-- SQL, data modeling, and API performance  
-
-🚀 My goal is to become a strong **Backend Engineer** capable of building systems that are both technically solid and genuinely useful.
-
-🌱 I also share my learning journey online — not just to document it, but to help others grow with me.
-
-If you’re into backend engineering, tech conversations, or collaboration, I’d love to connect!
-
----
-
-# 🛠 Tech Stack
+<h1 align="center">Saksham Pilane</h1>
+<p align="center"><em>Backend Software Engineer — I turn ideas into reliable, secure, scalable systems.</em></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask" height="45"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman,linux" height="45"/>
+  <a href="https://linkedin.com/in/saksham-pilane">LinkedIn</a> ·
+  <a href="mailto:sakshampilane.04@gmail.com">Email</a> ·
+  <a href="https://github.com/SakshamPilane">GitHub</a>
 </p>
 
 ---
 
-### 🔧 Breakdown  
-**Backend Development:** Java (Spring Boot), Python (FastAPI / Flask)  
-**Databases:** MySQL, PostgreSQL  
-**Tools & Platforms:** Git, GitHub, Postman, Linux  
-**Foundations:** C, C++, SQL, API Design  
+## `$ whoami`
+
+```java
+public class Saksham extends Engineer {
+
+    // Java-first, backend-focused — I like code that is simple,
+    // efficient, and still readable at 2 a.m. six months later.
+
+    private final String name     = "Saksham Pilane";
+    private final String role     = "Backend Software Engineer";
+    private final String location = "Pune, Maharashtra, India";
+    private final String company  = "Studium Tech — Software Development & AI (Intern)";
+    private final String degree   = "B.Tech, Computer Engineering @ Vishwakarma University";
+
+    private final String[] languages = { "Java", "JavaScript (Node.js)", "SQL", "Python" };
+    private final String[] backend   = { "Spring Boot", "Spring MVC", "Hibernate", "Fastify", "Express" };
+    private final String[] datastore = { "MySQL", "PostgreSQL", "MongoDB", "Redis" };
+
+    @Override
+    public String mission() {
+        return "Design clean REST APIs and secure auth systems that scale.";
+    }
+
+    public String[] currentlyLearning() {
+        return new String[] { "System Design", "Distributed Systems", "Clean Architecture" };
+    }
+}
+```
 
 ---
 
-# 🌐 Connect With Me  
+## `$ cat about.md`
 
-<div align="center">
+I'm a backend developer who enjoys turning fuzzy ideas into dependable systems.
+Day to day I build **REST APIs, authentication flows, and data-heavy services** — mostly in
+**Java + Spring Boot**, and daily in **Node.js (Fastify / Express)** at my internship.
 
-<a href="https://linkedin.com/in/saksham-pilane-904840383">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+I care about the unglamorous parts that make software actually good: clean architecture,
+sensible database design, thoughtful error handling, and code reviews that make the whole team better.
 
-<a href="https://x.com/SakshamPilane">
-  <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/@SakshamPilane">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="mailto:sakshampilane.04@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+> [!NOTE]
+> **Currently:** Tech Intern @ Studium Tech, shipping peer-reviewed, CI/CD-deployed code
+> across a nine-service ed-tech platform in Agile sprints — while sharpening my
+> engineering fundamentals every single day.
 
 ---
 
-# ❓ Developer Question of the Day  
+## `$ ls tech-stack/`
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=What+is+the+biggest+bottleneck+in+backend+systems%3F;How+do+you+design+an+API+for+millions+of+requests%2Fs%3F;Why+is+database+indexing+so+powerful%3F;What+makes+clean+architecture+scalable%3F;How+do+you+avoid+technical+debt+as+a+developer%3F" />
-</div>
+| Layer | Tools |
+|------|-------|
+| **Languages** | Java · JavaScript (Node.js) · SQL · Python · C/C++ |
+| **Backend** | Spring Boot · Spring MVC · Hibernate · JDBC · Fastify · Express |
+| **APIs & Auth** | REST · JWT · Refresh-token rotation · Pagination · Postman |
+| **Databases & Cache** | MySQL · PostgreSQL · MongoDB · Redis |
+| **DevOps & Tools** | Git · GitHub · Bitbucket · GitHub Actions · Docker · Jira · Linux |
+| **Foundations** | Data Structures & Algorithms · OOP · Unit Testing · SDLC · Agile |
 
 ---
 
-# 🏆 Developer Highlights
+## `$ git log --oneline featured-work/`
 
-<div align="center">
+```
+* TaskSync        — Team task & workflow platform (Java, Spring Boot, MySQL, WebSockets, JWT)
+|                    Role-based access, event-driven SLA monitoring, WebSocket push updates.
+|
+* AlgoVault       — Thread-safe in-memory key-value store (C++)
+|                    O(1) reads/writes, LRU eviction, Write-Ahead Logging with full recovery.
+|
+* SmartWater-AI   — Water-quality prediction & analytics (Python, ML)
+                     Random Forest / Isolation Forest models with interactive dashboards.
+```
 
-  <!-- GitHub Activity Overview -->
-  <img src="https://img.shields.io/badge/Active%20Contributor-%F0%9F%94%A5-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20Focused-%F0%9F%94%8D-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%F0%9F%8C%9F-orange?style=for-the-badge" />
+🔗 **[TaskSync](https://github.com/SakshamPilane/TaskSync)** ·
+**[AlgoVault](https://github.com/SakshamPilane/AlgoVault)** ·
+**[SmartWater-AI](https://github.com/SakshamPilane/SmartWater-AI)**
 
-</div>
+---
 
-<br>
+## `$ ./roadmap.sh`
 
-<div align="center">
+- [x] Ship production backend features in Agile sprints
+- [x] Design JWT auth with refresh-token rotation
+- [ ] Go deeper on **System Design & scalability**
+- [ ] Master **distributed systems** patterns (caching, queues, consistency)
+- [ ] Contribute more to **open source**
 
-  <!-- Achievement Badges -->
-  <img src="https://img.shields.io/badge/Clean%20Code%20Champion-%F0%9F%8F%86-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bug%20Hunter-%F0%9F%90%9B-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Architect-%F0%9F%94%8D-green?style=for-the-badge" />
+---
 
-</div>
+## `$ echo "let's connect"`
 
-<br>
+I'm always up for backend engineering talk, collaboration, or a good architecture debate.
 
-<div align="center">
+- 💼 **LinkedIn** — https://linkedin.com/in/saksham-pilane
+- 📫 **Email** — sakshampilane.04@gmail.com
+- 💻 **GitHub** — https://github.com/SakshamPilane
 
-  <!-- Skill Badges -->
-  <img src="https://img.shields.io/badge/Database%20Master-%F0%9F%92%BE-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20Engineer-%F0%9F%94%A7-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux%20Power%20User-%F0%9F%90%A7-yellow?style=for-the-badge" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <!-- Deep Skill Indicators -->
-  <img src="https://img.shields.io/badge/Code%20Quality-A%2B-blue?style=for-the-badge&logo=gitbook" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-DSA%20%7C%20Logic-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Designer-REST%20%7C%20FastAPI-9cf?style=for-the-badge" />
-
-</div>
+```java
+// Thanks for scrolling this far. Now go build something.
+System.out.println("Write once, run anywhere. ☕");
+```
