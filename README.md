@@ -2,9 +2,13 @@
 <p align="center"><em>Backend Software Engineer — I turn ideas into reliable, secure, scalable systems.</em></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saksham-pilane">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/saksham-pilane-904840383/">LinkedIn</a> ·
   <a href="mailto:sakshampilane.04@gmail.com">Email</a> ·
   <a href="https://github.com/SakshamPilane">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="assets/terminal.gif" alt="Saksham Pilane — backend engineer terminal boot" width="660" />
 </p>
 
 ---
@@ -88,6 +92,26 @@ sensible database design, thoughtful error handling, and code reviews that make 
 
 ---
 
+## `$ ./achievements --list`
+
+> 🎮 **Achievements unlocked** — earned on real production work, not participation trophies.
+
+| 🏅 | Achievement | How it was earned |
+|----|-------------|-------------------|
+| 🚀 | **Ship It** | 60+ merged PRs / 188 commits across 7 repos, in Agile sprints |
+| 🔐 | **Gatekeeper** | Redesigned JWT auth — short-lived access + rotating refresh tokens |
+| 🛡️ | **Surface Reducer** | Audited 200+ API endpoints, cut the public-route list down to 42 |
+| 🧹 | **Refactor Ranger** | Deleted ~270 lines by batching redundant DB round-trips |
+| 📊 | **Data Whisperer** | Built an internal AI-usage & cost observability dashboard |
+| ⚡ | **API Architect** | Redis-cached, server-side-paginated REST API over a high-volume dataset |
+| 🎓 | **Scholar** | B.Tech Computer Engineering — CGPA 8.09 |
+
+```
+LEVEL: Backend Engineer   ████████████████░░░░   XP to next level → System Design
+```
+
+---
+
 ## `$ ./roadmap.sh`
 
 - [x] Ship production backend features in Agile sprints
@@ -102,7 +126,7 @@ sensible database design, thoughtful error handling, and code reviews that make 
 
 I'm always up for backend engineering talk, collaboration, or a good architecture debate.
 
-- 💼 **LinkedIn** — https://linkedin.com/in/saksham-pilane
+- 💼 **LinkedIn** — https://www.linkedin.com/in/saksham-pilane-904840383/
 - 📫 **Email** — sakshampilane.04@gmail.com
 - 💻 **GitHub** — https://github.com/SakshamPilane
 
